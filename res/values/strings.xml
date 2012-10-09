@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, AndroidPageCurlActivity!</string>
+    <string name="app_name">Android Page Curl</string>
+    <string name="list_example">List Example</string>
+    <string name="standalone_example">Standalone Example</string>
+    <string name="description">Android Page Curl is an OpenSource implementation of a book like page curl. It is very simple but yet 
+    	effective. Fore more information and the source code check the projects site: http://code.google.com/p/android-page-curl\n\n
+    	Android Page Curl has been created by Moritz Wundke from http://www.MysticTreeGames.com\n\n
+    	Choose an example and try.</string>
+</resources>

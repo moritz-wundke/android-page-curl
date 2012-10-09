@@ -1,0 +1,5 @@
+$ cat .gitignore
+
+# Ignore what we got under 'bin'
+bin/*
+gen/*
