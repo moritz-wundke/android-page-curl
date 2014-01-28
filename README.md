@@ -18,3 +18,7 @@ android-page-curl has been added to the [ Android UI Patterns](https://market.an
 
 ## Current State
 By now it just switches between 2 images. But the idea is to render any view to animage and using two (foregound and background) images to create the effect. In some thime the flipper will inherit from ViewGroup? instead if View so that content providers and adapters will be able to add views to it.
+
+## License
+
+The project is licensed under the [New BSD License](http://opensource.org/licenses/BSD-3-Clause) so you can use it in commercial projects too. If you are building something with it please send us a mail and we will add you into the showcase section.
